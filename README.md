@@ -5,3 +5,5 @@ This is a simple application that allows you to do three things:
 3. Dynamic attribute score generator using buy point method - different games, especially video games, have a different number of attributes with different buy point arrays available. Some of them also increase the buy point cost after a certain attribute score is reached. For example, Fallout has 7 attributes, DND has 6. In order to increase your score from 13 to 14, it costs 2 pts, not 1. This allows you to generate scores based on the rules as you input them.
 
 Includes app as a .exe and source.
+
+06/03/2025 Added DND Helper Plus, which includes additional features: a random number generator, a list randomiser, and a random colour generator.
